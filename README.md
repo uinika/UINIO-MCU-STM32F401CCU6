@@ -1,6 +1,6 @@
 # UINIO-MCU-STM32F401CCU6 核心板
 
-[**UINIO-MCU-STM32F401CCU6**](https://gitee.com/uinika/UINIO-MCU-STM32F401CCU6) 是一款基于 [**意法半导体**](https://www.st.com/zh/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) **UFQFPN48** 封装的 **STM32F401CCU6** 微控制器的核心板电路设计，该微控制器基于 **ARM Cortex-M4** 内核架构，主频可以达到 `72MHz`，片上载有 `256KB` 容量的 Flash 存储器和 `64Kbytes` 的 SRAM 存储器，并且拥有 3 组 **USART** 和 **I²C** 接口，以及 4 组 **SPI** 接口与 `USB2.0` 全速控制器、12 位分辨率的 `ADC/DAC` 转换器，整体上属于高性价比、高性能的主控芯片产品。
+[**UINIO-MCU-STM32F401CCU6**](https://gitee.com/uinika/UINIO-MCU-STM32F401CCU6) 是一款基于 [**意法半导体**](https://www.st.com/zh/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) **UFQFPN48** 封装的 **STM32F401CCU6** 微控制器的核心板电路设计，该微控制器基于 **ARM Cortex-M4** 内核架构，主频可以达到 `72MHz`，片上载有 `256KB` 容量的 Flash 存储器和 `64Kbytes` 的 SRAM 存储器，并且拥有 3 组 **USART** 和 3 组 **I²C** 接口，以及 4 组 **SPI** 接口与 `USB2.0` 全速控制器、12 位分辨率的 `ADC/DAC` 转换器，整体上属于高性价比、高性能的主控芯片产品。
 
 ![](./Images/PCB-3D-1.png)
 
