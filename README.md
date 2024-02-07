@@ -6,7 +6,7 @@
 
 ![](./Images/PCB-3D-2.png)
 
-> **注意**：相比较于采用 **ARM Cortex-M3** 内核架构的 **STM32F103C8T6** 等产品，使用 **ARM Cortex-M4** 内核的 **STM32F401CCU6** 携带有浮点计算单元（**FPU**，Float Point Unit），在处理数学运算时能够大幅度提升运算性能。
+> **注意**：相比较于采用 **ARM Cortex-M3** 内核架构的 **STM32F103C8T6** 等产品，使用 **ARM Cortex-M4** 内核的 **STM32F401CCU6** 携带有浮点计算单元（**FPU**，Float Point Unit），在处理数学计算时能够大幅度提升运算性能。
 
 ## 设计概要
 
