@@ -1,5 +1,5 @@
-### Footprint positions - created on Wed Feb  7 00:24:29 2024 ###
-### Printed by KiCad version 7.0.10
+### Footprint positions - created on Fri Apr 12 16:05:42 2024 ###
+### Printed by KiCad version 7.0.11
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                  PosX       PosY       Rot  Side
@@ -12,11 +12,11 @@ C4        0.1uF             C_0402_1005Metric                     29.9391    -4.
 C5        1uF               C_0402_1005Metric                     14.2300   -13.9921   90.0000  top
 C6        0.1uF             C_0402_1005Metric                     29.0291   -15.8900    0.0000  top
 C7        0.1uF             C_0402_1005Metric                     45.7100   -13.7271  180.0000  top
-C8        22pF              C_0402_1005Metric                     40.8491   -10.3421  180.0000  top
+C8        22pF              C_0402_1005Metric                     41.1700   -10.3421  180.0000  top
 C9        0.1uF             C_0402_1005Metric                     20.7150    -6.3800   90.0000  top
-C10       10pF              C_0402_1005Metric                     39.2200   -14.1700   90.0000  top
-C11       10pF              C_0402_1005Metric                     39.2200   -12.3500  -90.0000  top
-C12       22pF              C_0402_1005Metric                     40.8491    -6.0221  180.0000  top
+C10       10pF              C_0402_1005Metric                     39.5409   -14.1700   90.0000  top
+C11       10pF              C_0402_1005Metric                     39.5409   -12.3500  -90.0000  top
+C12       22pF              C_0402_1005Metric                     41.1700    -6.0221  180.0000  top
 C13       0.1uF             C_0402_1005Metric                     30.8500   -15.8900    0.0000  top
 D1        LED_Red           LED_0603_1608Metric                   11.5391    -5.4900    0.0000  top
 HOLE**    Hole-1mm          Hole-1mm                              -0.9700   -18.1300  180.0000  top
@@ -42,6 +42,6 @@ SW3       BOOT0             KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7      52.4100   -13.
 U1        ME6211C33M5G-N    SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR     11.8291   -13.5261  180.0000  top
 U3        STM32F401CCU6     UFQFPN-48_L7.0-W7.0-P0.50-TL-EP5.6    29.9391   -10.0725  135.0000  top
 USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16             1.3491   -10.1721  -90.0000  top
-Y1        32.768KHz         CRYSTAL-FC135-32.768                  40.7991   -13.2621  -90.0000  top
-Y2        8MHz              Crystal_SMD_3225-4Pin_3.2x2.5mm       39.6591    -8.1821  180.0000  top
+Y1        32.768KHz         CRYSTAL-FC135-32.768                  41.1200   -13.2621  -90.0000  top
+Y2        8MHz              Crystal_SMD_3225-4Pin_3.2x2.5mm       39.9800    -8.1821  180.0000  top
 ## End
