@@ -1,4 +1,4 @@
-### Footprint positions - created on Fri Apr 12 16:05:42 2024 ###
+### Footprint positions - created on Sat Apr 13 17:27:10 2024 ###
 ### Printed by KiCad version 7.0.11
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -35,7 +35,7 @@ R8        10K               R_0402_1005Metric                     53.5900    -9.
 R9        10K               R_0402_1005Metric                     53.5900   -10.9400  180.0000  top
 R10       10K               R_0402_1005Metric                     45.7100   -12.1771    0.0000  top
 R11       5.1K              R_0402_1005Metric                     11.8200    -8.0063    0.0000  top
-R12       5.1K              R_0402_1005Metric                     14.2291   -10.3400   90.0000  top
+R12       5.1K              R_0402_1005Metric                     14.3800   -10.8400    0.0000  top
 SW1       BOOT1             KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7      52.4000    -7.0971  180.0000  top
 SW2       NRST              KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7      19.6350   -10.1721  -90.0000  top
 SW3       BOOT0             KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7      52.4100   -13.2571    0.0000  top
